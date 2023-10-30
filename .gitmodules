@@ -79,3 +79,27 @@
 [submodule "pack/plugins/start/vim-vinegar"]
 	path = pack/plugins/start/vim-vinegar
 	url = https://github.com/tpope/vim-vinegar
+[submodule "pack/plugins/start/STL-Syntax"]
+	path = pack/plugins/start/STL-Syntax
+	url = https://github.com/Mizuchi/STL-Syntax
+[submodule "pack/plugins/start/c-support"]
+	path = pack/plugins/start/c-support
+	url = https://github.com/WolfgangMehner/c-support
+[submodule "pack/plugins/start/vim-cpp-modern"]
+	path = pack/plugins/start/vim-cpp-modern
+	url = https://github.com/bfrg/vim-cpp-modern
+[submodule "pack/plugins/start/vim-hardtime"]
+	path = pack/plugins/start/vim-hardtime
+	url = https://github.com/takac/vim-hardtime
+[submodule "pack/plugins/start/haskell-vim"]
+	path = pack/plugins/start/haskell-vim
+	url = https://github.com/neovimhaskell/haskell-vim
+[submodule "pack/plugins/start/python-syntax"]
+	path = pack/plugins/start/python-syntax
+	url = https://github.com/vim-python/python-syntax
+[submodule "pack/plugins/start/vim-scala"]
+	path = pack/plugins/start/vim-scala
+	url = https://github.com/derekwyatt/vim-scala
+[submodule "pack/plugins/start/fzf.vim"]
+	path = pack/plugins/start/fzf.vim
+	url = https://github.com/junegunn/fzf.vim
