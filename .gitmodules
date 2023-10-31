@@ -88,9 +88,6 @@
 [submodule "pack/plugins/start/vim-cpp-modern"]
 	path = pack/plugins/start/vim-cpp-modern
 	url = https://github.com/bfrg/vim-cpp-modern
-[submodule "pack/plugins/start/vim-hardtime"]
-	path = pack/plugins/start/vim-hardtime
-	url = https://github.com/takac/vim-hardtime
 [submodule "pack/plugins/start/haskell-vim"]
 	path = pack/plugins/start/haskell-vim
 	url = https://github.com/neovimhaskell/haskell-vim
@@ -103,3 +100,6 @@
 [submodule "pack/plugins/start/fzf.vim"]
 	path = pack/plugins/start/fzf.vim
 	url = https://github.com/junegunn/fzf.vim
+[submodule "pack/plugins/start/codeium.vim"]
+	path = pack/plugins/start/codeium.vim
+	url = https://github.com/Exafunction/codeium.vim
