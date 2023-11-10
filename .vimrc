@@ -8,6 +8,8 @@ set ts=4
 set sts=4
 set sw=4
 
+" let g:codeium_enabled = v:false
+
 " start of default statusline
 set statusline=%f\ %h%w%m%r\ 
 " NOTE: preceding line has a trailing space character
