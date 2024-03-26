@@ -4,9 +4,9 @@ set relativenumber
 set cc=65
 
 set et
-set ts=4
-set sts=4
-set sw=4
+set ts=2
+set sts=2
+set sw=2
 
 " let g:codeium_enabled = v:false
 
