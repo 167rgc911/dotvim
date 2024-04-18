@@ -22,14 +22,6 @@ set statusline+=%=%(%l,%c%V\ %=\ %P%)
 syntax enable
 filetype plugin indent on
 
-" start of default statusline
-set statusline=%f\ %h%w%m%r\ 
-" NOTE: preceding line has a trailing space character
-
-" end of default statusline (with ruler)
-set statusline+=%3{codeium#GetStatusString()}
-set statusline+=%=%(%l,%c%V\ %=\ %P%)
-
 autocmd BufRead,BufNewFile *.cpp2  set filetype=cpp
 autocmd BufRead,BufNewFile *.hpp   set filetype=cpp
 autocmd BufRead,BufNewFile *.h2    set filetype=cpp
