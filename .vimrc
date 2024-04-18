@@ -1,7 +1,7 @@
 set number
 set relativenumber
 
-set cc=65
+" set cc=65
 
 set et
 set ts=2
@@ -21,3 +21,17 @@ set statusline+=%=%(%l,%c%V\ %=\ %P%)
 
 syntax enable
 filetype plugin indent on
+
+" start of default statusline
+set statusline=%f\ %h%w%m%r\ 
+" NOTE: preceding line has a trailing space character
+
+" end of default statusline (with ruler)
+set statusline+=%3{codeium#GetStatusString()}
+set statusline+=%=%(%l,%c%V\ %=\ %P%)
+
+autocmd BufRead,BufNewFile *.cpp2  set filetype=cpp
+autocmd BufRead,BufNewFile *.hpp   set filetype=cpp
+autocmd BufRead,BufNewFile *.h2    set filetype=cpp
+
+let g:C_SourceCodeExtensions = 'cpp2 h2 hpp c cc cp cxx cpp CPP c++ C i ii'
