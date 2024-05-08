@@ -8,7 +8,7 @@ set ts=2
 set sts=2
 set sw=2
 
-" let g:codeium_enabled = v:false
+let g:codeium_enabled = v:false
 
 " start of default statusline
 set statusline=%f\ %h%w%m%r\ 
