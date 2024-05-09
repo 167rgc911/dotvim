@@ -85,10 +85,6 @@
 [submodule "pack/plugins/start/vim-scala"]
 	path = pack/plugins/start/vim-scala
 	url = https://github.com/derekwyatt/vim-scala
-[submodule "pack/plugins/start/codeium.vim"]
-	path = pack/plugins/start/codeium.vim
-	url = https://github.com/Exafunction/codeium.vim
-	branch = main
 [submodule "pack/plugins/start/codeql.nvim"]
 	path = pack/plugins/start/codeql.nvim
 	url = https://github.com/pwntester/codeql.nvim
