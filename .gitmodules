@@ -88,3 +88,6 @@
 [submodule "pack/plugins/start/codeql.nvim"]
 	path = pack/plugins/start/codeql.nvim
 	url = https://github.com/pwntester/codeql.nvim
+[submodule "pack/plugins/start/graphviz.vim"]
+	path = pack/plugins/start/graphviz.vim
+	url = https://github.com/liuchengxu/graphviz.vim
