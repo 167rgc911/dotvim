@@ -16,4 +16,4 @@ autocmd BufRead,BufNewFile *.hpp   set filetype=cpp
 autocmd BufRead,BufNewFile *.h2    set filetype=cpp
 
 let g:C_SourceCodeExtensions = 'cpp2 h2 hpp c cc cp cxx cpp CPP c++ C i ii'
-let g:C_Styles = { '*.c,*.h' : 'C', '*.cc,*.cpp,*.c++,*.C,*.hh,*.h++,*.H,*.cpp2,*.hpp,*.h2' : 'CPP' }
+let g:C_Styles = { '*.c' : 'C', '*.cc,*.cpp,*.h,*.c++,*.C,*.hh,*.h++,*.H,*.cpp2,*.hpp,*.h2' : 'CPP' }
