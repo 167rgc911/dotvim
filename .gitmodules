@@ -70,9 +70,6 @@
 [submodule "pack/plugins/start/STL-Syntax"]
 	path = pack/plugins/start/STL-Syntax
 	url = https://github.com/Mizuchi/STL-Syntax
-[submodule "pack/plugins/start/c-support"]
-	path = pack/plugins/start/c-support
-	url = https://github.com/WolfgangMehner/c-support
 [submodule "pack/plugins/start/vim-cpp-modern"]
 	path = pack/plugins/start/vim-cpp-modern
 	url = https://github.com/bfrg/vim-cpp-modern
